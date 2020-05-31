@@ -9,7 +9,8 @@
 }
 
 body {
-  font-family: system-ui, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+    sans-serif, Apple Color Emoji, Segoe UI Emoji;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   line-height: 1.5;
@@ -180,12 +181,6 @@ header ul {
   font-variant-numeric: tabular-nums;
 }
 
-.post ul,
-.project ul,
-.post ol {
-  //list-style-position: inside;
-}
-
 main {
   display: flex;
   flex-wrap: wrap;
@@ -195,10 +190,17 @@ main {
 }
 
 @media screen and (max-width: 45rem) {
-  header li {
-    display: inline;
-    margin-right: 1rem;
+  header {
+    h1 {
+      text-align: left;
+    }
+
+    li {
+      display: inline;
+      margin-right: 1rem;
+    }
   }
+
   .logo {
     padding-bottom: 1rem;
   }
