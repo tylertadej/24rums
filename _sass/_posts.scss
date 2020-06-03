@@ -1,0 +1,21 @@
+.posts li {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+}
+
+.posts li a,
+.posts li div,
+.projects li a {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.posts li time,
+.projects li time {
+  padding-left: 1rem;
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
