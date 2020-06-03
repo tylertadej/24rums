@@ -1,14 +1,14 @@
 site: 24 Rums
-url: https://www.24rums.com
+url: https://www.24rums.com/
 title: 24 Rums
-description: Simple and minimalistic rum website about 24 rums.
+description: Two people explore the 24 Days of Rum advent calendar as a way to plan future vacations
 twitter:
-  username: #yourusername
+  username: tylertadej
   card: summary
-  creator: #yourusername
+  creator: tylertadej
 author:
-  twitter: #yourusername
-  name: #yourusername
+  twitter: tylertadej
+  name: tylertadej
   avatar:
   email: #youremail
   url: #yoururl
