@@ -16,8 +16,8 @@ A legal deed dated from February 20, 1703 confirms the existence of a “pot sti
 
 | Rum rating | The Author | Rum partner | Average |
 | :--- | :--- | :--- | :--- |
-| Smell | 3 stars | 2 stars | 2.5 stars |
-| Taste | 3 stars | 1 star | 2 stars |
+| Smell | 3 stars | 3 stars | 3 stars |
+| Taste | 3 stars | 5 star | 4 stars |
 | Overall | 3 stars | 4 stars | 3.5 stars |
 
 <br>
@@ -33,11 +33,13 @@ A legal deed dated from February 20, 1703 confirms the existence of a “pot sti
 
 Barbados is an eastern Caribbean island and an independent British Commonwealth nation. Bridgetown, the capital, is a cruise-ship port with colonial buildings and Nidhe Israel, a synagogue founded in 1654. Around the island are beaches, botanical gardens, the Harrison’s Cave formation, and 17th-century plantation houses like St. Nicholas Abbey. Local traditions include afternoon tea and cricket, the national sport.
 
+Also, Rhianna is from Barbados 😉
+
 #### Should we visit Barbados?
 
 **Pros**
 - Scuba diving
-- Historic downtown district
+- Historic downtown district (aka UNESCO World Heritage Centre)
 - Food tours
 
 **Cons**
