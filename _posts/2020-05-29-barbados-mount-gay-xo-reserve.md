@@ -33,8 +33,6 @@ A legal deed dated from February 20, 1703 confirms the existence of a “pot sti
 
 Barbados is an eastern Caribbean island and an independent British Commonwealth nation. Bridgetown, the capital, is a cruise-ship port with colonial buildings and Nidhe Israel, a synagogue founded in 1654. Around the island are beaches, botanical gardens, the Harrison’s Cave formation, and 17th-century plantation houses like St. Nicholas Abbey. Local traditions include afternoon tea and cricket, the national sport.
 
-Also, Rhianna is from Barbados 😉
-
 #### Should we visit Barbados?
 
 **Pros**
@@ -43,12 +41,13 @@ Also, Rhianna is from Barbados 😉
 - Food tours
 
 **Cons**
-- Lots of tourists
-- ?
+- Lots of American tourists
 
 #### Fun fact about Barbados
 
 Some of the many other names for rum are Nelson's blood, kill-devil, demon water, pirate's drink, navy neaters, and Barbados water.
+
+Also, Rhianna is from Barbados 😉
 
 <br>
 
