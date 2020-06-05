@@ -12,7 +12,11 @@ Cheers,
 Tyler from [Mezcal Reviews](https://www.mezcalreviews.com/)  
 Austin, Texas  
 May 2020
+
 <br>
+
+![Image of 24 Days of Rum advent calendar](/assets/img/03-pussers.jpg)
+
 <br>
 #### Related websites
 - [24 Days of Rum official website](https://24daysofrum.com/)
