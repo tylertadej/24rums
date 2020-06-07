@@ -1,5 +1,5 @@
 site: 24 Rums
-url: https://www.24rums.com/
+url: https://www.24rums.com
 title: 24 Rums
 description: Two people explore the 24 Days of Rum advent calendar as a way to plan future vacations
 twitter:
@@ -15,6 +15,7 @@ author:
 permalink: pretty
 
 baseurl: ""
+relative_permalinks: false
 
 highlighter: rouge
 
