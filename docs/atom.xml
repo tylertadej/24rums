@@ -4,7 +4,7 @@
  <title>24 Rums</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-06-04T22:16:43-05:00</updated>
+ <updated>2020-06-07T12:54:17-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>tylertadej</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Guyana - Pusser's Rum Gunpowder Proof 54.5%</title>
-   <link href="http://localhost:4000/2020/05/31/pussers-rum-gunpowder-proof"/>
+   <link href="http://localhost:4000/pussers-rum-gunpowder-proof"/>
    <updated>2020-05-31T00:00:00-05:00</updated>
-   <id>http://localhost:4000/2020/05/31/pussers-rum-gunpowder-proof</id>
+   <id>http://localhost:4000/pussers-rum-gunpowder-proof</id>
    <content type="html">&lt;p&gt;Pusser’s Rum Gunpowder Proof is the highest proof rum in the 24 Days of Rum box.&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -133,9 +133,9 @@
  
  <entry>
    <title>Peru - Ron Millonario 10 Anniversario Reserva 40%</title>
-   <link href="http://localhost:4000/2020/05/30/peru-ron-mililonario"/>
+   <link href="http://localhost:4000/peru-ron-mililonario"/>
    <updated>2020-05-30T00:00:00-05:00</updated>
-   <id>http://localhost:4000/2020/05/30/peru-ron-mililonario</id>
+   <id>http://localhost:4000/peru-ron-mililonario</id>
    <content type="html">&lt;p&gt;Ron Millonario 10 Anniversario Reserva is a rum from Peru. There isn’t any production information on their official website. But there is this description:&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Warm amber in colour, it has an easy and never aggressive nose. Candied oranges, bergamot tea, vanilla and a hint of cola nut are its main aromas. At the palate, it’s lighter and fresher than the older expressions: mainly it tastes of chestnut and acacia honey, candied oranges and citrons and sultana raisins. Slightly hidden, but still evident, are nuts, chocolate, desiccated plums and apricots. Only at the end a peppery sting from the alcohol becomes just noticeable.&lt;/p&gt;
@@ -262,9 +262,9 @@
  
  <entry>
    <title>Barbados - Mount Gay XO Reserve 43%</title>
-   <link href="http://localhost:4000/2020/05/29/barbados-mount-gay-xo-reserve"/>
+   <link href="http://localhost:4000/barbados-mount-gay-xo-reserve"/>
    <updated>2020-05-29T00:00:00-05:00</updated>
-   <id>http://localhost:4000/2020/05/29/barbados-mount-gay-xo-reserve</id>
+   <id>http://localhost:4000/barbados-mount-gay-xo-reserve</id>
    <content type="html">&lt;p&gt;Mount Gay XO Reserve is a blend of rums aged 8-15 years distilled in a traditional column still and double retort pot still. The sugar cane used in this rum is fully sourced in Barbados and the Caribbean. A proprietary strain of heirloom yeast is used in closed fermentation for the column-distilled rum. For the pot-distilled rum, open-air fermentation is initially used. This process exposes the molasses and water to the Bajan atmosphere, allowing breezes to carry native yeasts into the mix. The rums were aged in three different cask types: ex-American Whiskey, Bourbon, and Cognac.&lt;/p&gt;
 
 &lt;h3 id=&quot;about-mount-gay&quot;&gt;About Mount Gay&lt;/h3&gt;
