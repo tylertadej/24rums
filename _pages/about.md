@@ -29,3 +29,12 @@ May 2020
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/B9paMW2kEaw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+<br>
+#### Sugar and additives in rum
+It might seem obvious that low-quality or spiced rums like Captain Morgan contain additives, but even expensive rums from reputable brands may contain added coloring and even added sugar. The following websites are helpful in identifying which brands use additives:
+- [http://www.drecon.dk/index.php/17-list-of-rum-measured](http://www.drecon.dk/index.php/17-list-of-rum-measured)
+- [http://thefatrumpirate.com/hydrometer-tests-2](http://thefatrumpirate.com/hydrometer-tests-2)
+
+If a rum tastes overly sweet or artifical, it might contain additives. Naturally, there is a big debate about this in the rum community. And certain countries have regulations about what can or cannot be added. Certain laws also  addition to labeling requirements. For example, if a product is labeled as rum and sold in the European Union, they are only allowed to add sugar and caramel color.
+<br>
