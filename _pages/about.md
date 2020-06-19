@@ -15,7 +15,7 @@ May 2020
 
 <br>
 
-![Image of 24 Days of Rum advent calendar](/assets/img/03-pussers.jpg)
+![Image of 24 Days of Rum advent calendar](/assets/img/24-days-of-rum-advent-calendar.jpg)
 
 <br>
 #### Related websites

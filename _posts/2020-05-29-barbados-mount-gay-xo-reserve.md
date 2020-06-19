@@ -3,7 +3,7 @@ layout: post
 title: Barbados - Mount Gay XO Reserve 43%
 description: The very first rum in the 24 Days of Rum advent calendar
 summary: The very first rum in the 24 Days of Rum advent calendar.
-tags: [aged, carribbean]
+tags: [carribbean, island]
 ---
 
 Mount Gay XO Reserve is a blend of rums aged 8-15 years distilled in a traditional column still and double retort pot still. The sugar cane used in this rum is fully sourced in Barbados and the Caribbean. A proprietary strain of heirloom yeast is used in closed fermentation for the column-distilled rum. For the pot-distilled rum, open-air fermentation is initially used. This process exposes the molasses and water to the Bajan atmosphere, allowing breezes to carry native yeasts into the mix. The rums were aged in three different cask types: ex-American Whiskey, Bourbon, and Cognac.

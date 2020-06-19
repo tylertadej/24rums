@@ -3,7 +3,7 @@ layout: post
 title: Guyana - Pusser's Rum Gunpowder Proof 54.5%
 description: Pusser's Rum Gunpowder Proof is a navy strength rum from the country of Guyana 
 summary: Pusser's Rum Gunpowder Proof is a navy strength rum from the country of Guyana.
-tags: [south america]
+tags: [south-america]
 ---
 
 Pusser's Rum Gunpowder Proof is the highest proof rum in the 24 Days of Rum box.
@@ -45,7 +45,6 @@ Guyana, a country on South America’s North Atlantic coast, is defined by its d
 #### Should we visit Guyana?
 
 **Pros**
-- Large Indian population
 - 80% virgin rainforest 
 - Waterfall that is five times the height of Niagara Falls
 

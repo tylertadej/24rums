@@ -2,10 +2,43 @@
   
     {
 
-      "title"    : "Guyana - Pusser&#39;s Rum Gunpowder Proof 54.5%",
-      "url"      : "/pussers-rum-gunpowder-proof",
+      "title"    : "Mexico - Pixan 8 Años 40%",
+      "url"      : "/mexico-pixan",
       "category" : "",
-      "tags"     : "south america",
+      "tags"     : "north-america",
+      "date"     : "2020-06-07 00:00:00 -0500",
+      "discription" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Brazil - Santos Dumont XO 40%",
+      "url"      : "/brazil-santos-dumont-xo",
+      "category" : "",
+      "tags"     : "south-america",
+      "date"     : "2020-06-04 00:00:00 -0500",
+      "discription" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Mauritius - Chamarel VSOP 41%",
+      "url"      : "/mauritius-chamarel-vsop",
+      "category" : "",
+      "tags"     : "africa, island",
+      "date"     : "2020-06-03 00:00:00 -0500",
+      "discription" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Guyana - Pusser&#39;s Rum Gunpowder Proof 54.5%",
+      "url"      : "/guyana-pussers-rum-gunpowder-proof",
+      "category" : "",
+      "tags"     : "south-america",
       "date"     : "2020-05-31 00:00:00 -0500",
       "discription" : "Pusser&#39;s Rum Gunpowder Proof is a navy strength rum from the country of Guyana"
 
@@ -16,7 +49,7 @@
       "title"    : "Peru - Ron Millonario 10 Anniversario Reserva 40%",
       "url"      : "/peru-ron-mililonario",
       "category" : "",
-      "tags"     : "south america",
+      "tags"     : "south-america",
       "date"     : "2020-05-30 00:00:00 -0500",
       "discription" : "Ron Millonario 10 Anniversario Reserva is from Peru and it is like sweet orange candy"
 
@@ -27,7 +60,7 @@
       "title"    : "Barbados - Mount Gay XO Reserve 43%",
       "url"      : "/barbados-mount-gay-xo-reserve",
       "category" : "",
-      "tags"     : "aged, carribbean",
+      "tags"     : "carribbean, island",
       "date"     : "2020-05-29 00:00:00 -0500",
       "discription" : "The very first rum in the 24 Days of Rum advent calendar"
 

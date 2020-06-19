@@ -3,7 +3,7 @@ layout: post
 title: Peru - Ron Millonario 10 Anniversario Reserva 40%
 description: Ron Millonario 10 Anniversario Reserva is from Peru and it is like sweet orange candy 
 summary: Ron Millonario 10 Anniversario Reserva is from Peru and it is like sweet orange candy.
-tags: [south america]
+tags: [south-america]
 ---
 
 Ron Millonario 10 Anniversario Reserva is a rum from Peru. There isn't any production information on their official website. But there is this description:
