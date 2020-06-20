@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Mexico - Pixan 8 Años 40%
-description: 
-summary: .
+description: Pixan 8 Años is crafted in Monterrey, Mexico at a distillery founded by three friends
+summary: Pixan 8 Años is crafted in Monterrey, Mexico at a distillery founded by three friends
 tags: [north-america]
 ---
 
@@ -14,17 +14,17 @@ Three friends from different regions of Mexico, from Chiapas to Monterrey throug
 
 ### Tasting notes
 
-**The Author**:
+**The Author**: Bacardi Gold, plastic sugar.
 
-**Rum partner**:
+**Rum partner**: Vanilla, rubber, too spiced. Aroma outperforms the taste.
 
 ### Rum rating
 
 | | The Author | Rum partner | Average |
 | :--- | :--- | :--- | :--- |
-| Smell | 2 stars | 3 stars | 2.5 stars |
-| Taste | 3 stars | 4 stars | 3.5 stars |
-| **Overall** | 3 stars | 4 stars | 3.5 stars |
+| Smell | 3 stars | 4 stars | 3.5 stars |
+| Taste | 2 stars | 3 stars | 2.5 stars |
+| **Overall** | 2 stars | 3 stars | 2.5 stars |
 
 ### Additional rum resources
 - [Day 6](https://24daysofrum.com/day-6/) on 24 Days of Rum

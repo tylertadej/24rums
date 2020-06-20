@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Mauritius - Chamarel VSOP 41%
-description: 
-summary: .
+description: Chamarel VSOP is from the island nation of Mauritius off the coast of Africa
+summary: Chamarel VSOP is from the island nation of Mauritius off the coast of Africa
 tags: [africa, island]
 ---
 

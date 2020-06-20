@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Brazil - Santos Dumont XO 40%
-description: 
-summary: .
+description: Santos Dumont XO is from the nation of Brazil and named after an aviation pioneer
+summary: Santos Dumont XO is from the nation of Brazil and named after an aviation pioneer
 tags: [south-america]
 ---
 

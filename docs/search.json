@@ -2,12 +2,23 @@
   
     {
 
+      "title"    : "Indonesia - Batavia Arrack 48%",
+      "url"      : "/indonesia-batavia-arrack",
+      "category" : "",
+      "tags"     : "asia, island",
+      "date"     : "2020-06-19 00:00:00 -0500",
+      "discription" : "Batavia Arrack (rum) is produced on the island of Java and then shipped to Amsterdam to be blended and aged"
+
+    } ,
+  
+    {
+
       "title"    : "Mexico - Pixan 8 Años 40%",
       "url"      : "/mexico-pixan",
       "category" : "",
       "tags"     : "north-america",
       "date"     : "2020-06-07 00:00:00 -0500",
-      "discription" : ""
+      "discription" : "Pixan 8 Años is crafted in Monterrey, Mexico at a distillery founded by three friends"
 
     } ,
   
@@ -18,7 +29,7 @@
       "category" : "",
       "tags"     : "south-america",
       "date"     : "2020-06-04 00:00:00 -0500",
-      "discription" : ""
+      "discription" : "Santos Dumont XO is from the nation of Brazil and named after an aviation pioneer"
 
     } ,
   
@@ -29,7 +40,7 @@
       "category" : "",
       "tags"     : "africa, island",
       "date"     : "2020-06-03 00:00:00 -0500",
-      "discription" : ""
+      "discription" : "Chamarel VSOP is from the island nation of Mauritius off the coast of Africa"
 
     } ,
   
